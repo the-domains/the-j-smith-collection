@@ -1,7 +1,7 @@
 name: THE J. SMITH COLLECTION
 favicon: null
-layout_spectrum: 0.1579432354774326
-typography_spectrum: 0.07162079191766679
+layout_spectrum: 0.46169
+typography_spectrum: 0.15052
 title: 'Visual therapy '
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#000000'
+    - '#aaaaaa'
+    - '#ffffff'
+    - '#808080'
+    - '#575757'
   brandStrength: 0.5643876111134887
   lightness: 0.8777976708952338
-  saturation: 0.057121548568829894
+  saturation: 0.1875
   rhythmicContrast: 0.8824310856871307
 purpose: []
