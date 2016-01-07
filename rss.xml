@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[THE J. SMITH COLLECTION]]></title>
         <description><![CDATA[THE J. SMITH COLLECTION]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-j-smith-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 21:27:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jan 2016 21:28:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-j-smith-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Photography ]]></title>
             <description><![CDATA[<article><h1>Photography </h1><p>same of photos </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58e5fa4dee2b0068b71c77afc21116fda582a6ae.jpg"></article>]]></description>
-            <link>undefinedphotography/index.html</link>
+            <link>https://thegrid.ai/the-j-smith-collection/photography/index.html</link>
             <guid isPermaLink="false">89b0ab70-5651-4c2d-9b31-d57f7992d49d</guid>
-            <pubDate>Thu, 07 Jan 2016 21:27:47 GMT</pubDate>
+            <pubDate>Thu, 07 Jan 2016 21:28:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
