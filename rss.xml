@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[THE J. SMITH COLLECTION]]></title>
-        <description><![CDATA[THE J. SMITH COLLECTION]]></description>
+        <title><![CDATA[Visual therapy ]]></title>
+        <description><![CDATA[Visual therapy ]]></description>
         <link>https://thegrid.ai/the-j-smith-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 21:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jan 2016 04:41:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-j-smith-collection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.jsnlonline.com/wp-content/uploads/2015/09/sitelookbook2.jpg">]]></description>
+            <link>https://thegrid.ai/the-j-smith-collection/4058e410-b4fb-4bea-981a-bbecf4d47f0f/index.html</link>
+            <guid isPermaLink="false">4058e410-b4fb-4bea-981a-bbecf4d47f0f</guid>
+            <pubDate>Fri, 08 Jan 2016 04:41:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Photography ]]></title>
             <description><![CDATA[<article><h1>Photography </h1><p>same of photos </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58e5fa4dee2b0068b71c77afc21116fda582a6ae.jpg"></article>]]></description>
